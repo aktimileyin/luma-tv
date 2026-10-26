@@ -83,7 +83,7 @@ public final class MainActivity extends Activity {
             handler.postDelayed(this, 15000);
         }
     };
-    private static final String[] FIRST = {"com.google.android.youtube.tv", "com.netflix.ninja", "com.amazon.amazonvideo.livingroom", "com.disney.disneyplus", "com.spotify.tv.android", "com.google.android.youtube.tvmusic"};
+    private static final String[] FIRST = {"com.netflix.ninja", "com.amazon.firebat", "com.amazon.firetv.youtube", "com.apple.atve.amazon.appletv", "com.google.android.youtube.tv", "com.amazon.amazonvideo.livingroom", "com.disney.disneyplus", "com.spotify.tv.android", "com.google.android.youtube.tvmusic"};
 
     @Override public void onCreate(Bundle state) {
         super.onCreate(state);
